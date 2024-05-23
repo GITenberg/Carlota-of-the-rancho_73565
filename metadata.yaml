@@ -5,6 +5,9 @@ contributor:
     agent_name: Shreve, Sarah A.
     gutenberg_agent_id: '57121'
     url: http://www.gutenberg.org/2009/agents/57121
+covers:
+- cover_type: archival
+  image_path: 73565-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Raymond, Evelyn
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '31472'
     url: http://www.gutenberg.org/2009/agents/31472
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73565#Carlota-of-the-rancho
 gutenberg_issued: '2024-05-08'
 gutenberg_type: Text
 identifiers:
